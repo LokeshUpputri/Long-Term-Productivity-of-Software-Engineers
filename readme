@@ -1,2 +1,37 @@
-**GitHub Repo**: https://github.com/YourRepoLinkHere  
-**Team Members**: Lokesh Upputri, Sabina George, Soumi Ray
+# Predicting Long-Term Productivity of Software Engineers
+
+Final team project for AAI-510: Applied Artificial Intelligence  
+**Team 12** – Lokesh Upputri, Sabina George, Soumi Ray
+
+## 📌 Problem Statement
+Predict developer productivity based on behavioral and environmental data using machine learning models.
+
+## 🧠 Dataset
+Simulated dataset from [Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/ai-developer-productivity-dataset) with ~500 rows and features like:
+- hours_coding
+- distractions
+- caffeine intake
+- sleep hours
+- cognitive load
+- task success (target)
+
+## 📊 Methods
+- Exploratory Data Analysis (EDA)
+- Data cleaning and imputation
+- Regression Models:
+  - Linear Regression
+  - Random Forest Regressor (final model)
+
+## ✅ Results
+Random Forest achieved:
+- MSE = 0.00
+- R² = 1.0
+
+## 🚀 Deployment Plan
+Batch model via REST API on AWS or Azure; integrated into dev team analytics dashboard.
+
+## 📂 Files
+- `Final_Project_Team12.ipynb`: Full code + results
+- `presentation/`: Business slides & team video
+- `data/`: Input dataset
+
