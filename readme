@@ -35,3 +35,37 @@ Batch model via REST API on AWS or Azure; integrated into dev team analytics das
 - `presentation/`: Business slides & team video
 - `data/`: Input dataset
 
+## ✅ Final Project Deliverables Checklist – Team 12
+
+### 🧠 Jupyter Notebook (`.ipynb`)
+- [x] Problem statement + justification
+- [x] Data understanding (EDA – visual & statistical)
+- [x] Data cleaning and preparation
+- [x] Feature selection
+- [x] Modeling:
+  - Linear Regression
+  - Random Forest Regressor
+- [x] Evaluation (R², MSE)
+- [x] Deployment Plan (batch + cloud hosting)
+- [x] Discussion and conclusion
+- [x] Markdown sections and code comments
+- [x] GitHub link included
+- [x] Named: `Final_Project_SectionX_Team12.ipynb`
+- [x] Uploaded to GitHub
+
+### 📊 Business Presentation Slides (`.pdf`)
+- [x] ≤ 12 slides
+- [x] Structured for executive audience (non-technical)
+- [x] Problem, data, model, results, deployment, risks
+- [x] Clear visuals, big fonts, no code/math
+- [x] Named: `Final_Project_SectionX_Team12.pdf`
+- [x] Google Slides created and organized
+
+### 🎥 Video Presentation (`.mp4`)
+- [x] Script created and rehearsed by all members
+- [x] Recording completed
+- [x] Exported to `.mp4` format and uploaded to Canvas
+
+### 👥 Peer Evaluation Form
+- [x] Each member submitted individually via Canvas
+"""
